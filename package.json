@@ -1,6 +1,6 @@
 {
-  "homepage": "githublink",
-  "name": "landingpage-react-template",
+  "homepage": "https://amemeee.github.io/landing-page/",
+  "name": "landing-page",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
